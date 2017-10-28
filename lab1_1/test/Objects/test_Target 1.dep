@@ -1,0 +1,128 @@
+Dependencies for Project 'test', Target 'Target 1': (DO NOT MODIFY !)
+F (.\blinky\Blinky.c)(0x59EFB654)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections -I .\blinky -I .\board -I .\FreeRTOS -I .\board --show_cmdline --depend=filename-IC:\Users\ThinkPad\Desktop\lab1_3_test\RTE-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KWxx_DFP\1.7.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DMKW41Z256xxx4-o .\objects\blinky.o --omf_browse .\objects\blinky.crf --depend .\objects\blinky.d)
+I (.\FreeRTOS\FreeRTOS.h)(0x59AFAACC)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x574E3E26)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (.\FreeRTOS\FreeRTOSConfig.h)(0x59EE7227)
+I (.\FreeRTOS\projdefs.h)(0x59AFAACC)
+I (.\FreeRTOS\portable.h)(0x59AFAACC)
+I (.\FreeRTOS\deprecated_definitions.h)(0x59AFAACC)
+I (.\FreeRTOS\portmacro.h)(0x59AFAACC)
+I (.\FreeRTOS\mpu_wrappers.h)(0x59AFAACC)
+I (.\FreeRTOS\task.h)(0x59AFAACC)
+I (.\FreeRTOS\list.h)(0x59AFAACC)
+I (.\FreeRTOS\queue.h)(0x59AFAACC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (.\board\MKW41Z4.h)(0x59EF6D38)
+I (.\board\core_cm0plus.h)(0x59EF7124)
+I (.\board\cmsis_version.h)(0x59EF7106)
+I (.\board\cmsis_compiler.h)(0x59EF70EB)
+I (.\board\cmsis_armcc.h)(0x59EF70D7)
+I (.\board\system_MKW41Z4.h)(0x59EF697E)
+F (.\board\system_MKW41Z4.c)(0x59EF699B)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections -I .\blinky -I .\board -I .\FreeRTOS -I .\board --show_cmdline --depend=filename-IC:\Users\ThinkPad\Desktop\lab1_3_test\RTE-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KWxx_DFP\1.7.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DMKW41Z256xxx4-o .\objects\system_mkw41z4.o --omf_browse .\objects\system_mkw41z4.crf --depend .\objects\system_mkw41z4.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (board\MKW41Z4.h)(0x59EF6D38)
+I (board\core_cm0plus.h)(0x59EF7124)
+I (board\cmsis_version.h)(0x59EF7106)
+I (board\cmsis_compiler.h)(0x59EF70EB)
+I (board\cmsis_armcc.h)(0x59EF70D7)
+I (board\system_MKW41Z4.h)(0x59EF697E)
+F (.\board\system_MKW41Z4.s)(0x59EF69B4)(--cpu Cortex-M0+ -g --apcs=interwork -IC:\Users\ThinkPad\Desktop\lab1_3_test\RTE-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KWxx_DFP\1.7.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 521" --pd "MKW41Z256xxx4 SETA 1"--list .\listings\system_mkw41z4.lst --xref -o .\objects\system_mkw41z4_1.o --depend .\objects\system_mkw41z4_1.d)
+F (.\FreeRTOS\list.c)(0x59AFAACC)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections -I .\blinky -I .\board -I .\FreeRTOS -I .\board --show_cmdline --depend=filename-IC:\Users\ThinkPad\Desktop\lab1_3_test\RTE-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KWxx_DFP\1.7.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DMKW41Z256xxx4-o .\objects\list.o --omf_browse .\objects\list.crf --depend .\objects\list.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x574E3E26)
+I (FreeRTOS\FreeRTOS.h)(0x59AFAACC)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x574E3E26)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (FreeRTOS\FreeRTOSConfig.h)(0x59EE7227)
+I (FreeRTOS\projdefs.h)(0x59AFAACC)
+I (FreeRTOS\portable.h)(0x59AFAACC)
+I (FreeRTOS\deprecated_definitions.h)(0x59AFAACC)
+I (FreeRTOS\portmacro.h)(0x59AFAACC)
+I (FreeRTOS\mpu_wrappers.h)(0x59AFAACC)
+I (FreeRTOS\list.h)(0x59AFAACC)
+F (.\FreeRTOS\port.c)(0x59AFAACC)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections -I .\blinky -I .\board -I .\FreeRTOS -I .\board --show_cmdline --depend=filename-IC:\Users\ThinkPad\Desktop\lab1_3_test\RTE-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KWxx_DFP\1.7.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DMKW41Z256xxx4-o .\objects\port.o --omf_browse .\objects\port.crf --depend .\objects\port.d)
+I (FreeRTOS\FreeRTOS.h)(0x59AFAACC)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x574E3E26)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (FreeRTOS\FreeRTOSConfig.h)(0x59EE7227)
+I (FreeRTOS\projdefs.h)(0x59AFAACC)
+I (FreeRTOS\portable.h)(0x59AFAACC)
+I (FreeRTOS\deprecated_definitions.h)(0x59AFAACC)
+I (FreeRTOS\portmacro.h)(0x59AFAACC)
+I (FreeRTOS\mpu_wrappers.h)(0x59AFAACC)
+I (FreeRTOS\task.h)(0x59AFAACC)
+I (FreeRTOS\list.h)(0x59AFAACC)
+I (FreeRTOS\fsl_tickless_generic.h)(0x59AFAACC)
+F (.\FreeRTOS\queue.c)(0x59AFAACC)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections -I .\blinky -I .\board -I .\FreeRTOS -I .\board --show_cmdline --depend=filename-IC:\Users\ThinkPad\Desktop\lab1_3_test\RTE-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KWxx_DFP\1.7.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DMKW41Z256xxx4-o .\objects\queue.o --omf_browse .\objects\queue.crf --depend .\objects\queue.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x574E3E26)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x574E3E26)
+I (FreeRTOS\FreeRTOS.h)(0x59AFAACC)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x574E3E26)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (FreeRTOS\FreeRTOSConfig.h)(0x59EE7227)
+I (FreeRTOS\projdefs.h)(0x59AFAACC)
+I (FreeRTOS\portable.h)(0x59AFAACC)
+I (FreeRTOS\deprecated_definitions.h)(0x59AFAACC)
+I (FreeRTOS\portmacro.h)(0x59AFAACC)
+I (FreeRTOS\mpu_wrappers.h)(0x59AFAACC)
+I (FreeRTOS\task.h)(0x59AFAACC)
+I (FreeRTOS\list.h)(0x59AFAACC)
+I (FreeRTOS\queue.h)(0x59AFAACC)
+F (.\FreeRTOS\tasks.c)(0x59AFAACC)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections -I .\blinky -I .\board -I .\FreeRTOS -I .\board --show_cmdline --depend=filename-IC:\Users\ThinkPad\Desktop\lab1_3_test\RTE-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KWxx_DFP\1.7.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DMKW41Z256xxx4-o .\objects\tasks.o --omf_browse .\objects\tasks.crf --depend .\objects\tasks.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x574E3E26)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x574E3E26)
+I (FreeRTOS\FreeRTOS.h)(0x59AFAACC)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x574E3E26)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (FreeRTOS\FreeRTOSConfig.h)(0x59EE7227)
+I (FreeRTOS\projdefs.h)(0x59AFAACC)
+I (FreeRTOS\portable.h)(0x59AFAACC)
+I (FreeRTOS\deprecated_definitions.h)(0x59AFAACC)
+I (FreeRTOS\portmacro.h)(0x59AFAACC)
+I (FreeRTOS\mpu_wrappers.h)(0x59AFAACC)
+I (FreeRTOS\task.h)(0x59AFAACC)
+I (FreeRTOS\list.h)(0x59AFAACC)
+I (FreeRTOS\timers.h)(0x59AFAACC)
+I (FreeRTOS\StackMacros.h)(0x59AFAACC)
+I (FreeRTOS\freertos_tasks_c_additions.h)(0x59AFAACC)
+F (.\FreeRTOS\timers.c)(0x59AFAACC)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections -I .\blinky -I .\board -I .\FreeRTOS -I .\board --show_cmdline --depend=filename-IC:\Users\ThinkPad\Desktop\lab1_3_test\RTE-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KWxx_DFP\1.7.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DMKW41Z256xxx4-o .\objects\timers.o --omf_browse .\objects\timers.crf --depend .\objects\timers.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x574E3E26)
+I (FreeRTOS\FreeRTOS.h)(0x59AFAACC)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x574E3E26)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (FreeRTOS\FreeRTOSConfig.h)(0x59EE7227)
+I (FreeRTOS\projdefs.h)(0x59AFAACC)
+I (FreeRTOS\portable.h)(0x59AFAACC)
+I (FreeRTOS\deprecated_definitions.h)(0x59AFAACC)
+I (FreeRTOS\portmacro.h)(0x59AFAACC)
+I (FreeRTOS\mpu_wrappers.h)(0x59AFAACC)
+I (FreeRTOS\task.h)(0x59AFAACC)
+I (FreeRTOS\list.h)(0x59AFAACC)
+I (FreeRTOS\queue.h)(0x59AFAACC)
+I (FreeRTOS\timers.h)(0x59AFAACC)
+F (.\FreeRTOS\heap_1.c)(0x59AFAACC)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections -I .\blinky -I .\board -I .\FreeRTOS -I .\board --show_cmdline --depend=filename-IC:\Users\ThinkPad\Desktop\lab1_3_test\RTE-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KWxx_DFP\1.7.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DMKW41Z256xxx4-o .\objects\heap_1.o --omf_browse .\objects\heap_1.crf --depend .\objects\heap_1.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x574E3E26)
+I (FreeRTOS\FreeRTOS.h)(0x59AFAACC)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x574E3E26)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (FreeRTOS\FreeRTOSConfig.h)(0x59EE7227)
+I (FreeRTOS\projdefs.h)(0x59AFAACC)
+I (FreeRTOS\portable.h)(0x59AFAACC)
+I (FreeRTOS\deprecated_definitions.h)(0x59AFAACC)
+I (FreeRTOS\portmacro.h)(0x59AFAACC)
+I (FreeRTOS\mpu_wrappers.h)(0x59AFAACC)
+I (FreeRTOS\task.h)(0x59AFAACC)
+I (FreeRTOS\list.h)(0x59AFAACC)
+F (.\FreeRTOS\fsl_tickless_systick.c)(0x59AFAACC)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections -I .\blinky -I .\board -I .\FreeRTOS -I .\board --show_cmdline --depend=filename-IC:\Users\ThinkPad\Desktop\lab1_3_test\RTE-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KWxx_DFP\1.7.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DMKW41Z256xxx4-o .\objects\fsl_tickless_systick.o --omf_browse .\objects\fsl_tickless_systick.crf --depend .\objects\fsl_tickless_systick.d)
+I (FreeRTOS\FreeRTOS.h)(0x59AFAACC)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x574E3E26)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (FreeRTOS\FreeRTOSConfig.h)(0x59EE7227)
+I (FreeRTOS\projdefs.h)(0x59AFAACC)
+I (FreeRTOS\portable.h)(0x59AFAACC)
+I (FreeRTOS\deprecated_definitions.h)(0x59AFAACC)
+I (FreeRTOS\portmacro.h)(0x59AFAACC)
+I (FreeRTOS\mpu_wrappers.h)(0x59AFAACC)
+I (FreeRTOS\task.h)(0x59AFAACC)
+I (FreeRTOS\list.h)(0x59AFAACC)
+I (FreeRTOS\fsl_tickless_generic.h)(0x59AFAACC)

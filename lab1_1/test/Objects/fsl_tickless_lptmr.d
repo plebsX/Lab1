@@ -1,0 +1,13 @@
+.\objects\fsl_tickless_lptmr.o: FreeRTOS\fsl_tickless_lptmr.c
+.\objects\fsl_tickless_lptmr.o: FreeRTOS\FreeRTOS.h
+.\objects\fsl_tickless_lptmr.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\fsl_tickless_lptmr.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\fsl_tickless_lptmr.o: FreeRTOS\FreeRTOSConfig.h
+.\objects\fsl_tickless_lptmr.o: FreeRTOS\projdefs.h
+.\objects\fsl_tickless_lptmr.o: FreeRTOS\portable.h
+.\objects\fsl_tickless_lptmr.o: FreeRTOS\deprecated_definitions.h
+.\objects\fsl_tickless_lptmr.o: FreeRTOS\portmacro.h
+.\objects\fsl_tickless_lptmr.o: FreeRTOS\mpu_wrappers.h
+.\objects\fsl_tickless_lptmr.o: FreeRTOS\task.h
+.\objects\fsl_tickless_lptmr.o: FreeRTOS\list.h
+.\objects\fsl_tickless_lptmr.o: FreeRTOS\fsl_tickless_generic.h

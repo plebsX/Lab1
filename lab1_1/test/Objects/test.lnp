@@ -1,0 +1,15 @@
+--cpu Cortex-M0+
+".\objects\blinky.o"
+".\objects\system_mkw41z4.o"
+".\objects\system_mkw41z4_1.o"
+".\objects\list.o"
+".\objects\port.o"
+".\objects\queue.o"
+".\objects\tasks.o"
+".\objects\timers.o"
+".\objects\heap_1.o"
+".\objects\fsl_tickless_systick.o"
+--strict --scatter ".\Objects\test.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\test.map" -o .\Objects\test.axf

@@ -1,0 +1,3 @@
+/home/plebs/sdk/boards/frdmkw41z/rtos_examples/lab1_3/armgcc/CMakeFiles/edit_cache.dir
+/home/plebs/sdk/boards/frdmkw41z/rtos_examples/lab1_3/armgcc/CMakeFiles/rebuild_cache.dir
+/home/plebs/sdk/boards/frdmkw41z/rtos_examples/lab1_3/armgcc/CMakeFiles/Blinky.elf.dir
