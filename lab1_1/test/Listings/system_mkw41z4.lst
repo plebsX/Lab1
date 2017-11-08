@@ -703,11 +703,11 @@ ARM Macro Assembler    Page 11
               00000400 
               00000000 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M0+ --apcs=inter
-work --depend=.\objects\system_mkw41z4_1.d -o.\objects\system_mkw41z4_1.o -IC:\
-Users\ThinkPad\Desktop\lab1_3_test\RTE -IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KWxx_
-DFP\1.7.0\Device\Include -IC:\Keil_v5\ARM\CMSIS\Include --predefine="__UVISION_
-VERSION SETA 521" --predefine="MKW41Z256xxx4 SETA 1" --list=.\listings\system_m
-kw41z4.lst board\system_MKW41Z4.s
+work --depend=.\objects\system_mkw41z4_1.d -o.\objects\system_mkw41z4_1.o -ID:\
+RealTimeComp\lab1_1\Lab1\lab1_1\test\RTE -IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KWx
+x_DFP\1.7.0\Device\Include -IC:\Keil_v5\ARM\CMSIS\Include --predefine="__UVISIO
+N_VERSION SETA 521" --predefine="MKW41Z256xxx4 SETA 1" --list=.\listings\system
+_mkw41z4.lst board\system_MKW41Z4.s
 
 
 
